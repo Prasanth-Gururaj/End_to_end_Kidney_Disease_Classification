@@ -1,1 +1,6 @@
 # End_to_end_Kidney_Disease_Classification
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/Prasanth-Gururaj/End_to_end_Kidney_Disease_Classification.mlflow
+MLFLOW_TRACKING_USERNAME=Prasanth-Gururaj
+MLFLOW_TRACKING_PASSWORD=75df86971bd2b5b297f8bee2a917ce49c6a22491
